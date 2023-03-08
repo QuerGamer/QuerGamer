@@ -23,6 +23,7 @@ I used most local Git and Gitlab
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="40" height="40"/>
    <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
 
   </a></p>
 
